@@ -1,6 +1,5 @@
 LANGSMITH_TRACING=True
 LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
-LANGSMITH_API_KEY="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"
 LANGSMITH_PROJECT="pr-timely-osmosis-38"
 
 from openai import OpenAI
